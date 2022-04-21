@@ -1,0 +1,1 @@
+20220417	14:19:23	6706af71-06b2-47c5-bc70-1a30c134ccec	Error: ENOENT: no such file or directory, stat '/home/isaac/Documents/node-reaact/views/index.html'
